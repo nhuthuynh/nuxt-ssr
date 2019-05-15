@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # server-side-rendering
 
 > server side render url with first name and last name
@@ -20,3 +21,7 @@ $ yarn run generate
 ```
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+=======
+# nuxt-ssr
+simple demo using nuxt
+>>>>>>> 1c3fe02211e6b18d1d625c95d8fb4f7b211c5ebb
